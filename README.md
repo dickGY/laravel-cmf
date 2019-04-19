@@ -4,7 +4,7 @@
 拉取代码之后
 执行  composer update  加载vendor库
 
-将根目录下sql文件导入数据库
+将根目录下laravel_cmf.sql文件导入数据库
 
 然后将.env.example文件复制一份，将后缀.example去掉，填写你的数据库信息
 
