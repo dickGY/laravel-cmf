@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="43777cd7-5f53-495a-b3ea-46860aaf44cc" name="laravelcmf" url="http://39.106.216.27">
+        <fileTransfer host="39.106.216.27" port="22" rootFolder="/home/www/laravel-cmf" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
